@@ -1,4 +1,4 @@
-# KoBold
+# KoBold3
 
 A bold key-value store for knowledge and config management
 
@@ -7,7 +7,7 @@ A bold key-value store for knowledge and config management
 ## Install
 
 ```bash
-pip install kobold
+pip install kobold3
 ```
 
 ## Usage

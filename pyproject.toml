@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "kobold"
-version = "0.0.1"
+name = "kobold3"
+version = "0.0.2"
 description = "a bold key-value store for knowledge and config management"
 authors = ["rcox771 <russ771@gmail.com>"]
 license = "MIT"
