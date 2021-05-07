@@ -49,7 +49,7 @@ class Store:
         self.db.sync()
 
     @classmethod
-    def from_ns(cls, name):
+    def from_ns(cls, name="default"):
         return cls(user_dot_default(name))
 
 
