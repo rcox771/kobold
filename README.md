@@ -1,6 +1,8 @@
 # KoBold3
 
-A bold key-value store for knowledge and config management
+A bold Pythonic namespaced key-value local storage.
+
+Useful for kobolds with too many shiny stateful parameters, aliases, and configurables.
 
 ---
 
